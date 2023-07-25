@@ -14,3 +14,5 @@ npx shadcn-ui@latest add button
 npm i usehooks-ts
 
 npm i @tailwindcss/forms @tailwindcss/typography
+
+npm i date-fns
