@@ -1,0 +1,3 @@
+npm i eslint-config-prettier
+in eslintrc: "extends": ["next/core-web-vitals", "prettier"]
+
