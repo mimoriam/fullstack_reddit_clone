@@ -7,3 +7,8 @@ npx prisma migrate dev
 npx prisma generate
 
 npm i server-only
+
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add button
+
+npm i usehooks-ts
